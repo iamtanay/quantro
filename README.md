@@ -23,7 +23,7 @@ It provides a clean abstraction over indicators, signals, strategies, and backte
 For now, clone and run locally:
 
 ```bash
-git clone https://github.com/your-username/quantro.git
+git clone https://github.com/iamtanay/quantro.git
 cd quantro
 ```
 
